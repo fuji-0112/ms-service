@@ -1,3 +1,6 @@
+[submodule "todoapi-f"]
+	path = todoapi-f
+	url = https://github.com/fuji-0112/todoapi.git
 [submodule "todoapi"]
 	path = todoapi
-	url = https://github.com/fuji-0112/todoapi.git
+	url = git@github.com:fuji-0112/todoapi.git
